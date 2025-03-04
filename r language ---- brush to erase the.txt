@@ -4,4 +4,3 @@ to add string values --- Paste
 hii hello
 hollo
 yy
-y
