@@ -3,3 +3,4 @@ in r we use to assain the value we use (<-)
 to add string values --- Paste
 hii hello
 hollo
+yoyo
