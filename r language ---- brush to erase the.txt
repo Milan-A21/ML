@@ -1,0 +1,3 @@
+r language ---- brush to erase the variable value
+in r we use to assain the value we use (<-)
+to add string values --- Paste
